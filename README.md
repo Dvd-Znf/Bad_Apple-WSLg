@@ -1,5 +1,6 @@
 # Bad Apple played on WSLg  
 Simple project that uses vlc inside WSL to play Bad Apple!!  
+![Screenshot](/Screenshot.png)
 ## Requirements:  
 - Working WSLg  
 - python installed on WSL(required for youtube-dl)  
