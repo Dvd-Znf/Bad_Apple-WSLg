@@ -1,6 +1,8 @@
 # Bad Apple played on WSLg  
 Simple project that uses vlc inside WSL to play Bad Apple!!  
 ![Screenshot](/Screenshot.png)
+## Deprecation notice:   
+No moar update <3    
 ## Requirements:  
 - Working WSLg  
 - vlc installed on WSL
